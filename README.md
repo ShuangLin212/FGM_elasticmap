@@ -4,3 +4,12 @@ This the package of for FGM elastic map
 2. Get the stable strucutres on the convex hull suggesting by machine learning method Pysipfenn.
 
 ## Stable sturctures of T1 phase along all the composition:![plot](./newplot.png)
+
+3. CALPHAD Modeling of the elastic constant as function of compositionand and T
+
+In preparation
+
+4. Generation of the elastic map 
+
+In preparation
+
