@@ -5,7 +5,7 @@ This the package of for FGM elastic map
 
 ## Stable sturctures of T1 phase along all the composition:![plot](./newplot.png)
 
-3. CALPHAD Modeling of the elastic constant as function of compositionand and T
+3. CALPHAD Modeling of the elastic properties as function of compositionand and T
 
 In preparation
 
